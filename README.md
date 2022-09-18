@@ -1,2 +1,2 @@
 # crud
-It is django CRUD Application. 
+It is a django based CRUD Application. 
